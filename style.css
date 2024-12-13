@@ -123,7 +123,7 @@ img{
     background-color: aqua;
     width: 300px;
     height: 300px;
-    transform: translateX(10px) translateY(-4505px);
+    transform: translateX(2px) translateY(-4505px);
 }
 .vtriangle15{
     clip-path: polygon(54% 94%, 54% 96%, 50% 99%, 45% 99%, 40% 97%, 40% 94%);
@@ -134,7 +134,7 @@ img{
 }
 .visage2{
     height: 2000px;
-    transform: scaleX(-1) translateX(1162px);
+    transform: scaleX(-1) translateX(1606px);
     width: 2000px;
 }
 
